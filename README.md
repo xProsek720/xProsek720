@@ -18,7 +18,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000000?style=flat&logo=security&logoColor=white)
 
-```Didn't mentioned everything, but feel free to ask```
+```Didn't mention everything, but feel free to ask```
 
 
 ## GitHub Stats
