@@ -16,6 +16,7 @@ I'm a passionate software developer with expertise in multiple programming langu
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000000?style=flat&logo=security&logoColor=white)
 
 ```Didn't mention everything, but feel free to ask```
