@@ -29,3 +29,5 @@ I'm a passionate software developer with expertise in multiple programming langu
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipwalega/)
 [![Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=flat-square&logo=google-chrome)](https://www.xprosek.dev/en.html)
 [![Email](https://img.shields.io/badge/Email-kontakt%40xprosek.dev-blue?style=flat-square&logo=gmail)](mailto:kontakt@xprosek.dev)
+[![Donate with Tipply](https://img.shields.io/badge/Donate-Tipply-green.svg?style=flat-square)](https://tipply.pl/u/xpr0s3k)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-orange.svg?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/kontaktWWA)
