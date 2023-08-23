@@ -21,6 +21,13 @@ I'm a passionate software developer with expertise in multiple programming langu
 
 ```Didn't mention everything, but feel free to ask```
 
+## Accepting B2B Contracts and Offers
+[![B2B](https://img.shields.io/badge/B2B-Enabled-blue?style=flat-square)](https://xprosek.dev)
+- [x] ```Sense of Humor```
+- [x] ```Programming skillz```
+- [x] ```Networking skillz```
+- [x] ```H4x0r 5k1llz```
+- [x] ```Linux skillz``` 
 
 ## GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=xProsek720&show_icons=true&theme=dark)
