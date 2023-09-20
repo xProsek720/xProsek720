@@ -38,3 +38,5 @@ I'm a passionate software developer with expertise in multiple programming langu
 [![Email](https://img.shields.io/badge/Email-kontakt%40xprosek.dev-blue?style=flat-square&logo=gmail)](mailto:kontakt@xprosek.dev)
 [![Donate with Tipply](https://img.shields.io/badge/Donate-Tipply-green.svg?style=flat-square)](https://tipply.pl/u/xpr0s3k)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-orange.svg?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/kontaktWWA)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-orange.svg?style=flat-square&logo=buymeacoffee)](https://www.buymeacoffee.com/kontaktWWA)
+[![Join us on Discord](https://img.shields.io/badge/Join%20us%20on-Discord-7289DA?style=flat-square&logo=discord)](https://discord.gg/bCbhufcz2Y)
