@@ -40,7 +40,8 @@ I'm a passionate software developer with expertise in multiple programming langu
 
 <details>
   <summary>Public Key for Contact</summary>
-  -----BEGIN PGP PUBLIC KEY BLOCK-----
+  
+<code>-----BEGIN PGP PUBLIC KEY BLOCK-----
 mQINBGWyg6ABEADD02a5q/NkWkaoPaQje9ay1vrVRBmKAo/DnffLmsKgLb0WHc//
 0mU+uqhDX7gC6xTmV9GNTQHb42C5tkwQfFTxdIxgVxxa4nEPEFCG7NSroBZOUVif
 Cxl20KjF4nXkHenaUna8osP+xoBxbhHIvZG2u/SVXqf0NayXN0gtphmTyxt25LIo
@@ -90,5 +91,5 @@ B657J1L7rB7z5RbNapu81R23WsMoY9h7Xp3eUeQJ9w+b+nTnyL7EJqTmyidBDHsG
 v3BOxxAswaElLj2P7XALOhf5bwquZ15vWWApxuOYcOEQNxOabBgW7NERoV7RQmsP
 nrfkD4k=
 =6NvF
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----</code>
 </details>
